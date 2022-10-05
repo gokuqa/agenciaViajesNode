@@ -4,7 +4,10 @@
   "description": "Primer Proyecto Con Node",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+
+
   },
   "type": "module",
   "author": "Jose De Jesus Mendoza Ceja",
